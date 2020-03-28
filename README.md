@@ -7,7 +7,7 @@
 
 ![gif](./media/gif.gif)
 
-## Colors I'm using in my terminal
+## Colors (If you want the colors to be exactly like the gif on top, you don't have to)
 ```
 ! ~/.Xresource
 *.foreground:   #cbe3e7
