@@ -44,8 +44,11 @@
 ! white
 *.color7:       #cbe3e7
 *.color15:      #a6b3cc
+
 ```
-**NOTE:** These are the colors I'm using. You don't necessarily need to set these up, you only need to if you want the looks to be exactly like the gif on top.
+* Font: [Anonymous Pro for Powerline Bold - 14pt](https://github.com/powerline/fonts)
+
+**NOTE:** These are the colors and font that I'm using. You don't necessarily need to set these up, you only need to if you want the looks to be exactly like the gif above.
 
 ## Installation
 
