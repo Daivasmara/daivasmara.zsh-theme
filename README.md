@@ -1,5 +1,5 @@
 # daivasmara.zsh-theme
-> Chill zsh-theme inspired by smt
+> Chill zsh-theme, personal take on smt
 
 **明日は明日の風が吹く**: Tomorrow’s winds will blow tomorrow
 
