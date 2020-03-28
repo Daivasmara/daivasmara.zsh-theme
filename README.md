@@ -7,7 +7,6 @@
 
 ![gif](./media/gif.gif)
 
-## Colors (If you want the colors to be exactly like the gif on top, you don't have to)
 ```
 ! ~/.Xresource
 *.foreground:   #cbe3e7
@@ -46,6 +45,7 @@
 *.color7:       #cbe3e7
 *.color15:      #a6b3cc
 ```
+**NOTE:** These are the colors I'm using. You don't necessarily need to set these up, you only need to if you want the looks to be exactly like the gif on top.
 
 ## Installation
 
