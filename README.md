@@ -6,7 +6,7 @@
 **あす**: Tomorrow
 
 ![gif](./media/gif.gif)
-![ss](https://raw.githubusercontent.com/Daivasmara/daivasmara.zsh-theme/master/media/Screenshot%20from%202020-04-15%2010-41-27.png)
+![ss](https://raw.githubusercontent.com/Daivasmara/daivasmara.zsh-theme/master/media/Screenshot%20from%202020-04-30%2016-12-27.png)
 
 ```
 ! ~/.Xresource
